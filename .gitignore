@@ -1,0 +1,6 @@
+bin
+tmp
+.vagrant
+*.log
+rm.twitter.conf
+rm.typetalk.conf
